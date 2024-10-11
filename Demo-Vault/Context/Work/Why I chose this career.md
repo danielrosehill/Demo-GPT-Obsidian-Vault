@@ -1,0 +1,3 @@
+I chose a career in communications because I've always been passionate about storytelling. From a young age, I loved finding creative ways to explain ideas—whether it was writing essays, creating short videos, or simply chatting with friends. When I realized I could combine this passion with causes I care about, like environmental sustainability, it felt like a natural fit.
+
+Over the years, I’ve come to appreciate the impact that effective communication can have. A well-crafted message has the power to inspire change, challenge perspectives, and build communities. That potential for impact is what keeps me motivated, and it's why I continue to invest in learning new tools and approaches in this field.

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "ce16d195b1aa6c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "607bae65fd68dc3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f65fc9b5597a1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outputs/Raw/Blockchain and data security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blockchain and data security"
+            }
+          },
+          {
+            "id": "18407d4ba28db342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Save research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Save research"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40fc056871bb25e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "da5e8cd2b992e4f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915339d796a18a90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7bc69c1db2fdc54d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9c346496581cf0d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c2b3c7fc2f60ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "107a85b15008cfe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb153c30d768ff11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Outputs/Raw/Blockchain and data security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Blockchain and data security"
+            }
+          },
+          {
+            "id": "889029f93afc3d2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Outputs/Raw/Blockchain and data security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Blockchain and data security"
+            }
+          },
+          {
+            "id": "6677b7edac0fe4dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a014c1db2d2dfdbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Outputs/Raw/Blockchain and data security.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Blockchain and data security"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "18407d4ba28db342",
+  "lastOpenFiles": [
+    "Templates/Save combined snippets.md",
+    "Templates/Save research.md",
+    "Templates/Save context snippet.md",
+    "Templates/Save agent config.md",
+    "Templates/Save prompt and output.md",
+    "Templates/Save prompt.md",
+    "Templates/Save output.md",
+    "Templates/Content Outline.md",
+    "LLM-Generated-Content/Feedback/Feedback on first email draft.md",
+    "Templates",
+    "LLM-Generated-Content/Drafts/Plastic Awareness Campaign Email Copy.md",
+    "LLM-Generated-Content/Feedback",
+    "LLM-Generated-Content/Drafts",
+    "LLM-Generated-Content",
+    "Outputs/Experimentary/Prompting for different tones.md",
+    "Outputs/Generated-Content",
+    "Outputs/Scripts",
+    "Outputs/Real/Populating demo Obsidian vault.md",
+    "Workflow/Automation",
+    "Workflow",
+    "Research/LLM-Analysis",
+    "Agents/Iterations",
+    "Context/Stats/Plastic impact stats.md",
+    "Configs/Research agent GPT.md",
+    "Configs/Campaign agent GPT.md",
+    "Prompts/In-Use/Content Strategy Prompt.md",
+    "Context/Work/How I approach teamwork.md",
+    "Context/Work/Why I chose this career.md",
+    "Context/Work/My industry news sources.md",
+    "Context/Personal/Projects/My personal projects.md",
+    "Context/Personal/How I approach creativity.md",
+    "Context/Work/Thoughts on remote work.md",
+    "Context/Work/An inspiring mentor.md",
+    "Context/Personal/Mental health/How I manage stress.md",
+    "Context/Work/My work philosophy.md",
+    "Context/Personal/Tech/My daily tech stack.md"
+  ]
+}

@@ -1,0 +1,3 @@
+My approach to creativity is rooted in curiosity and exploration. I believe that to create compelling stories, one has to consume a lot of content—books, articles, videos, even art installations. I make it a point to read something outside of my usual field at least once a week, whether it’s about design, science, or even history, just to keep my perspective fresh.
+
+When I hit a creative block, I often change my environment—working from a café or taking a walk to reset my mind. Collaboration also fuels my creativity; bouncing ideas off my colleagues often leads to insights that I wouldn’t have thought of on my own. I see creativity as a skill that grows stronger the more it is exercised, and I make it a habit to push myself out of my comfort zone regularly.

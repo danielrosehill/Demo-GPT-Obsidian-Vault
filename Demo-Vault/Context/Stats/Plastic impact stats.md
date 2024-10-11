@@ -1,0 +1,3 @@
+- Every year, more than 8 million tons of plastic end up in the ocean.
+- It takes approximately 450 years for a plastic bottle to degrade.
+- Single-use plastics make up 50% of the plastic we use.

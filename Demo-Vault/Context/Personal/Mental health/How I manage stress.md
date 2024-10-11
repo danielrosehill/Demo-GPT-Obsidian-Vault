@@ -1,0 +1,3 @@
+Managing stress is something I've actively worked on over the years, especially as my responsibilities have grown. I’ve found that meditation and deep breathing exercises help keep me centered, especially during high-pressure projects. I try to take short breaks throughout the day, even if it's just a few minutes to stretch or take a walk around my building.
+
+I also set clear boundaries for myself when it comes to work hours, doing my best to "switch off" when the workday ends. On weekends, I make a conscious effort to engage in activities that help me recharge—whether that's cycling, working on my garden, or simply spending time with friends. Having a balance of downtime helps me approach work challenges with a clearer mind.

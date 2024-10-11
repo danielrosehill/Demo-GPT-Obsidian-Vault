@@ -1,0 +1,3 @@
+Every day, I rely on a combination of productivity and communication tools that help me stay organized and effective in my work. For project management, I use **Notion** to track progress on multiple campaigns and document ideas. I find it especially useful for its flexible workspaces, which allow my team to collaborate effortlessly.
+
+For writing and editing, **Obsidian** is my go-to tool—it helps me keep all my notes interlinked, making it easy to refer back to previous insights and research. Additionally, **Slack** is indispensable for quick communication with my team and clients, while **Zoom** is our choice for virtual meetings. I try to automate repetitive tasks using **Zapier**, allowing me to focus more on the creative aspects of my role.

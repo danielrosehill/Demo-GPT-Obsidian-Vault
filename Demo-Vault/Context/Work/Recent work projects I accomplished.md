@@ -1,0 +1,3 @@
+One recent project I’m particularly proud of is a social media campaign we ran for a non-profit focused on reducing single-use plastic consumption. The campaign featured a series of educational videos and infographics that highlighted the real environmental costs of plastic waste. We collaborated with a few well-known environmental advocates, which helped the campaign gain traction.
+
+In the end, our work reached over 200,000 viewers, and we saw a noticeable increase in the engagement rates of the organization's followers. More importantly, the non-profit reported an uptick in new members and donations during the campaign period, which felt like a tangible indicator of success. Knowing that my work made a real impact was incredibly fulfilling.

@@ -1,0 +1,3 @@
+One of the most inspiring mentors I've had was my former manager, Julia Thompson, at my previous job. Julia was an expert in crisis communications and had a way of staying calm even in the most hectic situations. She taught me the importance of anticipating problems before they arose and always having a plan B, C, and even D ready.
+
+More than just technical skills, Julia inspired me to lead with compassion. She always took the time to understand what was happening in her team members' lives outside of work, which made a huge difference in how we approached stressful deadlines. Her guidance shaped my own approach to managing teams, and I try to carry her empathetic leadership style forward in my current role.

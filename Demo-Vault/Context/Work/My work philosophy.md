@@ -1,0 +1,3 @@
+My work philosophy revolves around adaptability and constant growth. I believe that, in the fast-paced world of communications and advocacy, the only way to succeed is to remain open to change—whether that means experimenting with new digital tools, updating messaging strategies, or incorporating feedback from unexpected places.
+
+I also strive to foster a sense of purpose in my work, ensuring that the projects I take on are aligned with causes I genuinely care about. When I’m able to work on projects that promote sustainability or social good, my work feels meaningful. For me, it’s not just about hitting campaign targets but also about making sure my contributions are part of a broader positive impact.

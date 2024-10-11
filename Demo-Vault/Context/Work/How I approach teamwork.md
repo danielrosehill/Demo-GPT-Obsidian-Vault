@@ -1,0 +1,3 @@
+To me, effective teamwork is built on the foundation of trust and respect. I believe that everyone brings unique strengths to a team, and it’s important to recognize and value those contributions. I always make an effort to listen to my colleagues' ideas, even if they differ from my own—sometimes the most unexpected perspectives lead to the best solutions.
+
+I also believe in the importance of shared accountability. When the whole team takes ownership of both successes and setbacks, it creates a more cohesive and supportive environment. I try to lead by example, being transparent about my own mistakes and celebrating my team members' achievements, no matter how big or small. When people feel that their work is valued, they’re more inclined to do their best.

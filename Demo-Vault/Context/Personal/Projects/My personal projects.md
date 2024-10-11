@@ -1,0 +1,3 @@
+Currently, I'm working on a personal project that involves creating a digital zine about sustainable urban living. It’s a passion project aimed at highlighting small but impactful changes people can make to live more eco-friendly lives in cities. The zine will include interviews with urban gardeners, illustrations about waste reduction, and even DIY tutorials for upcycling.
+
+Another ongoing project is a blog where I document my experiments with generative AI tools. I share insights and tutorials on how to use these technologies to create visual art, which has helped me connect with a small but enthusiastic community online. These projects not only help me learn new skills but also provide a creative outlet that’s separate from my day-to-day work responsibilities.
